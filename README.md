@@ -4,10 +4,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 I’m currently doing **Freelance** and **Part time**
-- 💻 Building a **Prototype app**
-- 🧠 Currently diving deeper into **Python, C++, Linux customization**
-- 🔧 Daily driver: **VSCose + Z Shell + Git**
-- 📫 Reach me by opening an issue 😄
+- 💻 Building a **Prototype app** and **Linux dotfiles**
+- 🧠 Currently diving deeper into **Python, C++ and Linux customization**
+- 🔧 Daily driver: **Arch Linux + Alacritty + VSCose + Z Shell + Git**
+- 📫 Reach me if you wanna disscus with me 😄
 
 ---
 
