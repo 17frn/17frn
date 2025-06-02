@@ -19,9 +19,8 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=17frn&show_icons=true&theme=tokyonight&cache_seconds=1800)
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=17frn&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17frn&layout=compact&theme=tokyonight&v=1" />
 
 ---
 
