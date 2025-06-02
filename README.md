@@ -20,6 +20,8 @@
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=17frn&show_icons=true&theme=tokyonight&cache_seconds=1800)
+https://github-readme-stats.vercel.app/api?username=17frn&show_icons=true&theme=tokyonight&token=YOUR_TOKEN_HERE
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=17frn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17frn&layout=compact&theme=tokyonight" alt="Top Langs" />
