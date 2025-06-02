@@ -19,7 +19,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align=center>
+<p align="center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=17frn&show_icons=true&theme=tokyonight&cache_seconds=1800)
 </p>
 
