@@ -26,13 +26,6 @@
 
 ---
 
-### 📈 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=17frn&theme=tokyo-night" />
-</p>
-
----
-
 ### 💡 Quote of the Day:
 <h3 align="center">
   <p>"Jika kamu hari ini merasa gagal, tenang masih ada kegagalan di hari esok"</p>
