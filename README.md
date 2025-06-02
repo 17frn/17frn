@@ -28,5 +28,5 @@
 
 ### 💡 Quote of the Day:
 <h3 align="center">
-  <p>"Jika kamu hari ini merasa gagal, tenang masih ada kegagalan di hari esok"</p>
+  <p>"Jika kamu hari ini merasa gagal, tenang masih ada kegagalan yang belum dicoba di hari esok"</p>
 </h3>
