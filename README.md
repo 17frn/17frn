@@ -6,7 +6,7 @@
 - 🔭 I’m currently doing **Freelance** and **Part time**
 - 💻 Building a **Prototype app** and **Linux dotfiles**
 - 🧠 Currently diving deeper into **Python, C++ and Linux customization**
-- 🔧 Daily driver: **Arch Linux + Alacritty + VSCose + Z Shell + Git**
+- 🔧 Daily driver: **Arch Linux + Alacritty + VSCode + Z Shell + Git**
 - 📫 Reach me if you wanna disscus with me 😄
 
 ---
