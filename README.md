@@ -3,10 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently doing **Freelance** and **Part time**
+- 🔭 I’m currently doing **Freelance**
 - 💻 Building a **Prototype app** and **Linux dotfiles**
-- 🧠 Currently diving deeper into **Python, C++ and Linux customization**
-- 🔧 Daily driver: **Arch Linux + Alacritty + VSCode + Z Shell + Git**
+- 🧠 Currently diving deeper into **Flutter, Python, C++ and Linux customization**
 - 📫 Reach me if you wanna disscus with me 😄
 
 ---
